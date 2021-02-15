@@ -7,5 +7,5 @@
 Tools & Technologies – HTML5, Pug/Jade, CSS3, JavaScript, jQuery, Bootstrap 4, Node.js, MongoDB, Judge0 API.
 
 # Login page
-![login page](./login-page.png)
+![login page](./snapshots/login-page.png)
 
