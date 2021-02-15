@@ -16,5 +16,6 @@ Tools & Technologies – HTML5, Pug/Jade, CSS3, JavaScript, jQuery, Bootstrap 4,
 ![teacher dashboard](./snapshots/teacher/teacher-dashboard.png)
 
 # Student dashboard
-![student dashboard](./snapshots/student/student-dashboard.png)
+![student dashboard](./snapshots/student/student-dashboard-1.png)
+![student dashboard](./snapshots/student/student-dashboard-2.png)
 
