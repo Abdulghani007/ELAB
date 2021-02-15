@@ -9,3 +9,12 @@ Tools & Technologies – HTML5, Pug/Jade, CSS3, JavaScript, jQuery, Bootstrap 4,
 # Login page
 ![login page](./snapshots/login-page.png)
 
+# Admin dashboard
+![admin dashboard](./snapshots/admin/admin-dashboard.png)
+
+#  Teacher dashboard
+![teacher dashboard](./snapshots/teacher/teacher-dashboard.png)
+
+# Student dashboard
+![student dashboard](./snapshots/student/student-dashboard.png)
+
